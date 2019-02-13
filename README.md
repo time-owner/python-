@@ -1,4 +1,4 @@
 # python-
 学习python过程中创建的代码
-hello,i am zhanghubo,a expoler of myself.recently i obtain much things about myself.
-in the future,i will get more achivement based on the thought i have now.
+
+本代码将实现将特定excel表格中前n个月数额相加并导入到新excel表格
